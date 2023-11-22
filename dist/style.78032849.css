@@ -158,7 +158,7 @@ a{
 }
 
 .list--tick{
-    list-style-image: url(../imAGes/tick.svg);
+    list-style-image: url(/tick.5c1c5072.svg);
     padding-left: 3rem;
     color: var(--color-headings);
 
@@ -390,7 +390,7 @@ a{
 }
 
 .plan--popular .card__header ::before{
-    content: url(../imAGes/popular.svg);
+    content: url(/popular.44b6f910.svg);
     width: 40px;
     display: inline-block;
     position: absolute;
@@ -865,3 +865,5 @@ a{
         font-size: 1.6rem;
     }
 }
+
+/*# sourceMappingURL=/style.78032849.css.map */
